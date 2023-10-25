@@ -10,11 +10,21 @@
   },
   "license": "MIT",
   "dependencies": {
-    "next": "12.0.4",
+    "ai": "^2.2.18",
+    "class-variance-authority": "^0.7.0",
+    "next": "^12.0.4",
+    "next-auth": "^4.24.3",
+    "next-themes": "^0.2.1",
+    "radix-ui": "^1.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-hot-toast": "^2.4.1",
     "react-icons": "^4.3.1",
-    "sass": "^1.43.5"
+    "react-syntax-highlighter": "^15.5.0",
+    "react-textarea-autosize": "^8.5.3",
+    "remark-gfm": "^4.0.0",
+    "sass": "^1.43.5",
+    "vercel": "^32.5.0"
   },
   "devDependencies": {
     "@types/node": "16.11.10",

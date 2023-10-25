@@ -8,7 +8,7 @@ export function SectionHeader () {
     <div className={styles.container}>
       <SearchBar />
 
-      <button className={styles.newProjectButton}>New Model</button>
+      <button className={styles.newProjectButton}>New Agent</button>
 
       <button className={styles.createTeamButton}>
         <FiUserPlus size="18" className={styles.createTeamIcon} />

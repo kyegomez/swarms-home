@@ -3,9 +3,9 @@ import { NextApiRequest, NextApiResponse } from "next"
 const projects = [
   {
     id: 1,
-    name: "LongNet",
+    name: "ProfitPilot",
     deployment_url: "github-search-virid-seven.vercel.app",
-    last_commit_name: "Train on enwiki8",
+    last_commit_name: "Autonomous Sales Tasks",
     updated_at: {
       when: "12/26/21",
       from_other_services: true,
