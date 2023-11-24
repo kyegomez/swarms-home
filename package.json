@@ -24,7 +24,7 @@
     "react-textarea-autosize": "^8.5.3",
     "remark-gfm": "^4.0.0",
     "sass": "^1.43.5",
-    "vercel": "^32.5.0"
+    "vercel": "^32.5.6"
   },
   "devDependencies": {
     "@types/node": "16.11.10",
